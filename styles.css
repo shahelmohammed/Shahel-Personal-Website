@@ -5,14 +5,14 @@ img{
 
 .skill-card{
     height: 6em;
-    width: 7em;
+    width: 6em;
     background-color: #0d0033;
     transition: width 0.5s;
     transition-timing-function: linear;
 }
 
 .skill-card:hover {
-    width: 8em
+    width: 6.5em
 }
 
 .Contact{
