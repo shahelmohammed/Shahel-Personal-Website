@@ -4,7 +4,7 @@ img{
 }
 
 .skill-card{
-    height: 6em;
+    height: 5em;
     width: 6em;
     background-color: #0d0033;
     transition: width 0.5s;
